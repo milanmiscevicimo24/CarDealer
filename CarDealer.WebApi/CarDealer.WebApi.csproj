@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CarDealer.IoC\CarDealer.IoC.csproj" />
     <ProjectReference Include="..\CarDealer.Services\CarDealer.Services.csproj" />
   </ItemGroup>
